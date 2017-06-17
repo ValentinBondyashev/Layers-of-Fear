@@ -1,0 +1,170 @@
+@media screen and (max-width: 1201px) {
+  .h_l {
+    text-align: center;
+    margin-top: 20px; }
+  .slid {
+    width: 850px; }
+    .slid img {
+      width: 350px; } }
+
+@media screen and (min-width: 807px) and (max-width: 1200px) {
+  .h_l {
+    text-align: center;
+    margin-top: 10px; }
+  .slid {
+    width: 730px; } }
+
+@media screen and (min-width: 695px) and (max-width: 806px) {
+  .h_l {
+    text-align: center;
+    margin-top: 20px; }
+  .slid {
+    width: 365px;
+    margin: 0 auto; }
+  .slid_img {
+    width: 200px;
+    border-radius: 0px; }
+  .net {
+    float: right;
+    font-size: 40px;
+    margin-top: 120px; }
+    .net_vk {
+      color: #fff;
+      margin-right: 80px; }
+      .net_vk:hover {
+        color: #5048e4;
+        transition: 0.5s;
+        cursor: pointer; }
+    .net_inst {
+      color: #fff;
+      margin-right: 80px; }
+      .net_inst:hover {
+        color: #e965d8;
+        transition: 0.5s;
+        cursor: pointer; }
+    .net_twit {
+      color: #fff; }
+      .net_twit:hover {
+        color: #65c8e9;
+        transition: 0.5s;
+        cursor: pointer; }
+  .up {
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 50%;
+    color: #fff; }
+    .up:hover {
+      color: black;
+      transition: 1s; }
+  .about-us_head {
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: 'Noto Serif', serif; }
+  .about-us_text {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px; }
+  .about-us_block {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px; }
+    .about-us_block:last-child {
+      padding-bottom: 40px; }
+    .about-us_block__head {
+      font-family: 'Noto Serif', serif; }
+    .about-us_block__text {
+      font-family: Roboto;
+      font-size: 16px; }
+    .about-us_block__img {
+      height: 80px; } }
+
+@media screen and (min-width: 100px) and (max-width: 694px) {
+  .h_l {
+    text-align: center;
+    margin-right: 15%; }
+  .slid {
+    width: 365px;
+    margin: 0 auto; }
+  .slid_img {
+    width: 200px;
+    border-radius: 0px; }
+  .net {
+    font-size: 40px;
+    margin-top: 120px; }
+    .net_vk {
+      color: #fff;
+      margin-right: 30px; }
+      .net_vk:hover {
+        color: #5048e4;
+        transition: 0.5s;
+        cursor: pointer; }
+    .net_inst {
+      color: #fff;
+      margin-right: 30px; }
+      .net_inst:hover {
+        color: #e965d8;
+        transition: 0.5s;
+        cursor: pointer; }
+    .net_twit {
+      color: #fff; }
+      .net_twit:hover {
+        color: #65c8e9;
+        transition: 0.5s;
+        cursor: pointer; }
+  .up {
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 50%;
+    color: #fff; }
+    .up:hover {
+      color: black;
+      transition: 1s; }
+  .header_list__item {
+    display: block;
+    float: right;
+    margin: 45px 0 0 40px;
+    width: 100%;
+    text-align: center; }
+    .header_list__item:last-child {
+      margin: 45px 0 40px 0; }
+  .header_list__link {
+    font-size: 50px;
+    color: white;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 900; }
+    .header_list__link:visited {
+      text-decoration: none;
+      color: white; }
+    .header_list__link:active {
+      text-decoration: none;
+      color: white; }
+    .header_list__link:focus {
+      text-decoration: none;
+      color: white; }
+    .header_list__link:hover {
+      text-decoration: none;
+      color: red;
+      transition: 2s; }
+  .about-us_head {
+    text-align: center;
+    padding-bottom: 40px;
+    font-family: 'Noto Serif', serif; }
+  .about-us_text {
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    padding-bottom: 20px; }
+  .about-us_block {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px; }
+    .about-us_block:last-child {
+      padding-bottom: 40px; }
+    .about-us_block__head {
+      font-family: 'Noto Serif', serif; }
+    .about-us_block__text {
+      font-family: Roboto;
+      font-size: 16px; }
+    .about-us_block__img {
+      height: 80px; } }
